@@ -9,9 +9,7 @@ Daily study log tracking my journey to becoming a professional penetration teste
 
 ## Profiles
 - TryHackMe: Top 1%
-- HackerOne: [your handle]
-- Bugcrowd: [your handle]
-
+- 
 ## Projects
 - [ReconAI](https://github.com/Abhi-Sh4rma/reconai)
 - [BugFlow](https://github.com/Abhi-Sh4rma/bugflow)
