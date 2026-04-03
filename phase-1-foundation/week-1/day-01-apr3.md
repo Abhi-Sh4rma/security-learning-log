@@ -22,8 +22,7 @@
 | 10 | SSRF | Server tricked into making requests to internal resources |
 
 ### What I learned
-- [e.g. "SSRF can be used to access internal cloud metadata endpoints like 169.254.169.254 — didn't know that"]
-- [e.g. "Burp Repeater lets you modify and resend requests manually — more powerful than I expected"]
-
+- SSRF can be used to access internal cloud metadata endpoints like 169.254.169.254 — didn't know that
+- Burp Repeater lets you modify and resend requests manually — more powerful than I expected
 ### Questions / things that confused me
-- [e.g. "How exactly does DOM-based XSS differ from Reflected XSS in a real attack scenario?"]
+- How exactly does DOM-based XSS differ from Reflected XSS in a real attack scenario?
